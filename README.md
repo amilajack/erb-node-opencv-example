@@ -13,3 +13,6 @@ yarn
 cd app
 yarn
 ```
+
+### Note
+To see [this commit](https://github.com/amilajack/erb-node-opencv-example/commit/1e49e801bb4602a79705a8c4c29d0a11c3486de8) for all the notable changes.
